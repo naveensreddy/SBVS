@@ -5,7 +5,8 @@ import Helmet from'react-helmet';
 const Head =()=>{
     return(
       <Helmet>
-        <title>SVBC</title>
+        <title>SBVS</title>   
+        <link href="https://fonts.googleapis.com/css?family=Acme|Capriola" rel="stylesheet"/>
       </Helmet>
     )
 }

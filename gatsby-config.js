@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `SVBC`,
+    title: `SBVS`,
     googleVerification: ``
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `SVBC`,
-        short_name: `SVBC`,
+        name: `SBVS`,
+        short_name: `SBVS`,
         start_url: `/`,
         background_color: `#f7f7f7`,
         theme_color: `#191919`,
