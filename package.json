@@ -1,0 +1,64 @@
+{
+  "name": "sbvs",
+  "version": "0.0.1",
+  "description": "Offcial website of SVBS school",
+  "scripts": {
+    "start": "gatsby develop -o",
+    "build": "gatsby build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveensreddy/SBVS.git"
+  },
+  "keywords": [
+    "svbs",
+    "react",
+    "gatsby",
+    "graphql"
+  ],
+  "author": "Madhusudhan R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveensreddy/SBVS/issues"
+  },
+  "homepage": "https://github.com/naveensreddy/SBVS#readme",
+  "dependencies": {
+    "@babel/core": "^7.1.2",
+    "@types/react": "^16.4.16",
+    "@types/react-dom": "^16.0.9",
+    "babel-plugin-styled-components": "^1.8.0",
+    "gatsby": "^2.0.21",
+    "gatsby-cli": "^2.4.3",
+    "gatsby-image": "^2.0.13",
+    "gatsby-plugin-canonical-urls": "^2.0.6",
+    "gatsby-plugin-catch-links": "^2.0.4",
+    "gatsby-plugin-google-analytics": "^2.0.6",
+    "gatsby-plugin-manifest": "^2.0.5",
+    "gatsby-plugin-offline": "^2.0.6",
+    "gatsby-plugin-react-helmet": "^3.0.0",
+    "gatsby-plugin-robots-txt": "^1.3.0",
+    "gatsby-plugin-sass": "^2.0.1",
+    "gatsby-plugin-sharp": "^2.0.6",
+    "gatsby-plugin-sitemap": "^2.0.1",
+    "gatsby-plugin-styled-components": "^3.0.0",
+    "gatsby-plugin-typescript": "^2.0.0",
+    "gatsby-remark-autolink-headers": "^2.0.6",
+    "gatsby-remark-copy-linked-files": "^2.0.5",
+    "gatsby-remark-embed-youtube": "^0.0.7",
+    "gatsby-remark-external-links": "^0.0.4",
+    "gatsby-remark-images": "^2.0.4",
+    "gatsby-remark-prismjs": "^3.0.1",
+    "gatsby-remark-responsive-iframe": "^2.0.5",
+    "gatsby-source-filesystem": "^2.0.3",
+    "gatsby-transformer-json": "^2.1.4",
+    "gatsby-transformer-remark": "^2.1.7",
+    "gatsby-transformer-sharp": "^2.1.3",
+    "node-sass": "^4.9.3",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-helmet": "^5.2.0",
+    "styled-components": "^3.4.10",
+    "ts-loader": "^5.2.1",
+    "typescript": "^3.1.3"
+  }
+}
